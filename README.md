@@ -12,45 +12,45 @@
 - [x] Encapsulamento
 - [x] Exceptions
 - [x] Herança e Polimorfismo
-- [] [Desafio - Gerenciador de Times de Futebol]()
-- [] [Desafio - Controle de estacionamento]()
-- [] [Desafio - Media, Moda e Mediana]()
+- [ ] [Desafio - Gerenciador de Times de Futebol]()
+- [ ] [Desafio - Controle de estacionamento]()
+- [ ] [Desafio - Media, Moda e Mediana]()
 
 ## Terceiro Módulo
-- [] Java Interface
-- [] Polimorfismo, Classes Abstratas e Interfaces
-- [] Annotation
+- [ ] Java Interface
+- [ ] Polimorfismo, Classes Abstratas e Interfaces
+- [ ] Annotation
 
 ## Quarto Módulo
-- [] Spring Boot
-- [] Modelagem SQL
-- [] Hibernate JPA
-- [] Postgresql
+- [ ] Spring Boot
+- [ ] Modelagem SQL
+- [ ] Hibernate JPA
+- [ ] Postgresql
 
 ## Quinto Módulo
-- [] Spring Data
-- [] JPA
-- [] Hibernate
-- [] SQL
-- [] Spring Data DML
+- [ ] Spring Data
+- [ ] JPA
+- [ ] Hibernate
+- [ ] SQL
+- [ ] Spring Data DML
 
 ## Sexto Módulo
-- [] Spring Boot
-- [] HTTP
-- [] REST;
-- [] APIs
+- [ ] Spring Boot
+- [ ] HTTP
+- [ ] REST;
+- [ ] APIs
 
 ## Sétimo Módulo
-- [] OAuth2
-- [] Swagger
-- [] Spring Security
+- [ ] OAuth2
+- [ ] Swagger
+- [ ] Spring Security
 
 ## Oitavo Módulo
-- [] Clean Code
-- [] SOLID
-- [] TDD
+- [ ] Clean Code
+- [ ] SOLID
+- [ ] TDD
 
 ## Nono Módulo
-- [] Maven
-- [] Deploy Aplicações
-- [] DevOps
+- [ ] Maven
+- [ ] Deploy Aplicações
+- [ ] DevOps
