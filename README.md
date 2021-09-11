@@ -12,9 +12,9 @@
 - [x] Encapsulamento
 - [x] Exceptions
 - [x] Herança e Polimorfismo
-- [ ] [Desafio - Gerenciador de Times de Futebol]()
-- [ ] [Desafio - Controle de estacionamento]()
-- [ ] [Desafio - Media, Moda e Mediana]()
+- [x] [Desafio - Gerenciador de Times de Futebol](https://codenation.dev/private-journey/java-online-9/challenge/java-1)
+- [ ] [Desafio - Controle de estacionamento]
+- [ ] [Desafio - Media, Moda e Mediana]
 
 ## Terceiro Módulo
 - [ ] Java Interface
