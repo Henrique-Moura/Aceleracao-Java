@@ -12,7 +12,7 @@
 - [x] Encapsulamento
 - [x] Exceptions
 - [x] Herança e Polimorfismo
-- [x] [Desafio - Gerenciador de Times de Futebol](https://codenation.dev/private-journey/java-online-9/challenge/java-1)
+- [x] [Desafio - Gerenciador de Times de Futebol](https://www.codenation.dev/code-review/#/java-1/dCI2I4InR)
 - [ ] [Desafio - Controle de estacionamento]
 - [ ] [Desafio - Media, Moda e Mediana]
 
