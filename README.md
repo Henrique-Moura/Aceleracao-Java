@@ -14,7 +14,7 @@
 - [x] Herança e Polimorfismo
 - [x] [Desafio - Gerenciador de Times de Futebol](https://www.codenation.dev/code-review/#/java-1/dCI2I4InR)
 - [x] [Desafio - Controle de estacionamento](https://www.codenation.dev/code-review/#/java-7/b6mTS4Sng)
-- [ ] [Desafio - Media, Moda e Mediana]
+- [x] [Desafio - Media, Moda e Mediana](https://www.codenation.dev/code-review/#/java-14/M-LTIVIng)
 
 ## Terceiro Módulo
 - [ ] Java Interface
