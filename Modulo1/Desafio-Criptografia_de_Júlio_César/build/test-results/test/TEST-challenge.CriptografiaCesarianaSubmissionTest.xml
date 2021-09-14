@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="challenge.CriptografiaCesarianaSubmissionTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-09-04T21:22:37" hostname="henriquemoura-Lenovo-IdeaPad-S145-15API" time="0.01">
+  <properties/>
+  <testcase name="deveRetornarErroQuandoCriptografaTextoEhNulo" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.002"/>
+  <testcase name="deveConverterCaracteresParaMinusculoNaDescriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.003"/>
+  <testcase name="deveManterOsNumerosNaCriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.001"/>
+  <testcase name="deveConverterCaracteresParaMinusculoNaCriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveManterOsNumerosNaDescriptografia" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveRetornarErroQuandoDesCriptografaTextoEhNulo" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveRetornarErroQuandoODesCriptografaTextoEhVazio" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveCriptografarTexto" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveRetornarErroQuandoOCriptografaTextoEhVazio" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <testcase name="deveDescriptografarTexto" classname="challenge.CriptografiaCesarianaSubmissionTest" time="0.0"/>
+  <system-out><![CDATA[aprender java gera felicidade
+vhmdp ehp ylqgrv dr dfhohud eudvlo 2019
+dsuhqghu mdyd jhud iholflgdgh
+sejam bem vindos ao acelera brasil 2019
+d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr
+a ligeira raposa marrom saltou sobre o cachorro cansado
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
