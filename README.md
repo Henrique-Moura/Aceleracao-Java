@@ -1,6 +1,6 @@
-# Aceleracao-Java
-
 # Conteúdos sobre a Aceleração em Java
+
+Neste repositório há todo o conteúdo que foi visto e praticado durante a aceleração realizada pela CI&T em conjunto da Trybe para o aprendizado de Java.
 
 ## Primeiro Módulo
 - [x] Métodos, construtores e controles de acesso
