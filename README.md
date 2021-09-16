@@ -19,9 +19,9 @@ Neste repositório há todo o conteúdo que foi visto e praticado durante a acel
 - [x] [Desafio - Media, Moda e Mediana](https://www.codenation.dev/code-review/#/java-14/M-LTIVIng)
 
 ## Terceiro Módulo
-- [ ] Java Interface
-- [ ] Polimorfismo, Classes Abstratas e Interfaces
-- [ ] Annotation
+- [x] Java Interface
+- [x] Polimorfismo, Classes Abstratas e Interfaces
+- [x] Annotation
 
 ## Quarto Módulo
 - [ ] Spring Boot
