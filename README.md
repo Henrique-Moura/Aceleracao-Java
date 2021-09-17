@@ -22,6 +22,7 @@ Neste repositório há todo o conteúdo que foi visto e praticado durante a acel
 - [x] Java Interface
 - [x] Polimorfismo, Classes Abstratas e Interfaces
 - [x] Annotation
+- [x] [Desafio - Utilitário - Calculador de atributos de Classe](https://www.codenation.dev/code-review/#/java-8/8wVDn_S7R)
 
 ## Quarto Módulo
 - [ ] Spring Boot
