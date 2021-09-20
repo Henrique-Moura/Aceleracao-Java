@@ -25,10 +25,10 @@ Neste repositório há todo o conteúdo que foi visto e praticado durante a acel
 - [x] [Desafio - Utilitário - Calculador de atributos de Classe](https://www.codenation.dev/code-review/#/java-8/8wVDn_S7R)
 
 ## Quarto Módulo
-- [ ] Spring Boot
-- [ ] Modelagem SQL
-- [ ] Hibernate JPA
-- [ ] Postgresql
+- [x] Spring Boot
+- [x] Modelagem SQL
+- [x] Hibernate JPA
+- [x] Postgresql
 
 ## Quinto Módulo
 - [ ] Spring Data
